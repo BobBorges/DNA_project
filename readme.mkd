@@ -2,15 +2,46 @@
 
 This is a repo for the DNA project. Here I'm useing SR to automate spoken-language corpus building. This repo contains .eaf files for collaborators who already have the media files. 
 
+## Totals
+
+So far, there are 
+
+* 898 minutes / 14.966 hours
+
+transcribed!
+
 ## Notes to collaborators
 
 1. Make sure your media collection is up to date **before** you pull from github. If media collection is not up to date, you will have to manually move media files into the directory structure created by the pull. Not a fatal error, but potential pia.
 
-### up to date batch list
+## Up-to-date batch list
 
-* batch_0001: starter
-* batch_0002: starter
-* batch_0003: 20190414 17:35
-* batch_0004: 20190414 20:25
-* batch_0005: coming soon
+batch | date added
+--- | ---
+batch_0001: | starter
+batch_0002: | starter
+batch_0003: | 20190414
+batch_0004: | 20190414
+batch_0005: | 20190414
+
+
+## File summary
+
+file	    | batch | duration_in_min |	date_SRed 
+---         | ---   | :---: | ---
+20181113	| 0001	| 2	    | 20190413
+20181123_01	| 0001	| 85    | 20190413
+20181123_02	| 0001	| 111	| 20190413
+20181123_03	| 0001	| 18	| 20190413
+20181101	| 0002	| 19	| 20190414
+20181121_01	| 0002	| 21	| 20190414
+20181121_02	| 0002	| 87	| 20190414
+20190411_01	| 0003	| 60	| 20190414
+20190411_02	| 0003	| 90	| 20190414
+20190411_03	| 0003	| 24	| 20190414
+20190411_04	| 0003	| 48	| 20190414
+20190405_04	| 0004	| 101	| 20190415
+20190405_05	| 0004	| 100	| 20190415
+20190409_01	| 0004	| 102	| 20190415
+20190409_02	| 0004	| 30	| 20190415
 

@@ -1,0 +1,11 @@
+This is the log file for Batch_0004.
+-------------------------------------
+Recognized all utterances in 20190405_04/20190405_04.eaf in 1799.35785508 seconds.
+Finished processing 20190405_04 in 1800.8914001 seconds.
+Recognized all utterances in 20190409_02/20190409_02.eaf in 490.388580799 seconds.
+Finished processing 20190409_02 in 490.578739882 seconds.
+Recognized all utterances in 20190405_05/20190405_05.eaf in 1780.27719092 seconds.
+Finished processing 20190405_05 in 1782.46658897 seconds.
+Recognized all utterances in 20190409_01/20190409_01.eaf in 1879.62024999 seconds.
+Finished processing 20190409_01 in 1883.92192578 seconds.
+--- Finished batch in 5957.85931706 seconds ---
