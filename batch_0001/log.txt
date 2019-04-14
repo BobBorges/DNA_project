@@ -1,0 +1,12 @@
+This is the log file for Batch_0001.
+------------------------------------------------------
+Recognized all utterances in 20181123_03/20181123_03.eaf in 317.382931948 seconds.
+Finished processing 20181123_03 in 317.439474106 seconds.
+Recognized all utterances in 20181113/20181113.eaf in 32.1394510269 seconds.
+Finished processing 20181113 in 32.1513049603 seconds.
+Recognized all utterances in 20181123_02/20181123_02.eaf in 1919.02198315 seconds.
+Finished processing 20181123_02 in 1920.53254294 seconds.
+Recognized all utterances in 20181123_01/20181123_01.eaf in 1553.81732202 seconds.
+Finished processing 20181123_01 in 1554.891186 seconds.
+--- Finished batch in 3825.01494908 seconds ---
+
