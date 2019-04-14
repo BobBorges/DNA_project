@@ -1,5 +1,16 @@
-DNA Project
-===========
+# DNA Project
+
 This is a repo for the DNA project. Here I'm useing SR to automate spoken-language corpus building. This repo contains .eaf files for collaborators who already have the media files. 
 
-I'm still experimenting with the SR – accuracy is not good enough yet to move foreward. stay tuned...
+## Notes to collaborators
+
+1. Make sure your media collection is up to date **before** you pull from github. If media collection is not up to date, you will have to manually move media files into the directory structure created by the pull. Not a fatal error, but potential pia.
+
+### up to date batch list
+
+* batch_0001: starter
+* batch_0002: starter
+* batch_0003: coming soon
+* batch_0004: coming soon
+* batch_0005: coming soon
+
