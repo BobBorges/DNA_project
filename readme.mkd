@@ -11,6 +11,6 @@ This is a repo for the DNA project. Here I'm useing SR to automate spoken-langua
 * batch_0001: starter
 * batch_0002: starter
 * batch_0003: 20190414 17:35
-* batch_0004: coming soon
+* batch_0004: 20190414 20:25
 * batch_0005: coming soon
 
