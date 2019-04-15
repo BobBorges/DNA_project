@@ -1,6 +1,0 @@
-# Test Doc
-
-I just want to test a few things>
-
-* if mkd displays in subdirectories like on the 'home' page
-* what happens when I delete the file
