@@ -4,17 +4,20 @@ This is a repo for the DNA project. Here I'm useing SR to automate spoken-langua
 
 ## Totals
 
-So far, there are 
+So far, there are ca.:
 
-* 898 minutes / 14.966 hours
-
-transcribed!
+* 17h26m (1046 minutes) of data transcribed
+* X# (to appear) utterances
+* X# (to appear) words
 
 ## Notes to collaborators
 
 1. Make sure your media collection is up to date **before** you pull from github. If media collection is not up to date, you will have to manually move media files into the directory structure created by the pull. Not a fatal error, but potential pia.
 
 ## Up-to-date batch list
+
+This is a list of the batches of media files and the date they have been added to the media cache.
+#  
 
 batch | date added
 --- | ---
@@ -26,6 +29,9 @@ batch_0005: | 20190414
 
 
 ## File summary
+
+Here is a list of files processed to date. If a batch is added to the media cache but doesn't appear here yet, one can still safely pull from the git repo w/out having downloaded the media files.
+#  
 
 file	    | batch | duration_in_min |	date_SRed 
 ---         | ---   | :---: | ---
@@ -44,4 +50,6 @@ file	    | batch | duration_in_min |	date_SRed
 20190405_05	| 0004	| 100	| 20190415
 20190409_01	| 0004	| 102	| 20190415
 20190409_02	| 0004	| 30	| 20190415
-
+20190505_01 | 0005 | 48    | 20190415
+20190405_02 | 0005 | 57    | 20190415
+20190405_03 | 0005 | 43    | 20190415
