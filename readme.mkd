@@ -1,12 +1,12 @@
 # DNA Project
 
-This is a repo for the DNA project. Here I'm useing SR to automate spoken-language corpus building. This repo contains .eaf files for collaborators who already have the media files. 
+This is a repo for the DNA project. Here I'm using SR to automate spoken-language corpus building. This repo contains .eaf files for collaborators who already have the media files.
 
 ## Totals
 
 So far, there are ca.:
 
-* 17h26m (1046 minutes) of data transcribed
+* 36h47m (2207 minutes) of data transcribed
 * X# (to appear) utterances
 * X# (to appear) words
 
@@ -56,3 +56,18 @@ file	    | batch | duration_in_min |	date_SRed
 20190505_01 | 0005 | 48    | 20190415
 20190405_02 | 0005 | 57    | 20190415
 20190405_03 | 0005 | 43    | 20190415
+20190405_06 | 0006 | 73    | 20190529
+20190405_07 | 0006 | 33    | 20190529
+20190405_08 | 0006 | 1     | 20190529
+20190101_01 | 0007 | 0     | removed / no speech
+20190101_02 | 0007 | 359   | 20190530
+20190402    | 0008 | 384   | 20190530
+20190404_01 | 0008 | 0     | removed / no audio
+20190404_02 | 0009 | 311   | 20190530
+
+## Post SR progress
+
+to do:
+
+* diarize speakers
+* add utterances to py dict
