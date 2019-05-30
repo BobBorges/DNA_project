@@ -7,8 +7,8 @@ This is a repo for the DNA project. Here I'm using SR to automate spoken-languag
 So far, there are ca.:
 
 * 36h47m (2207 minutes) of data transcribed
-* X# (to appear) utterances
-* X# (to appear) words
+* 21560 annotations
+* 204186 words / 14275 unique (nb: numbers with unit counted as one word...should be c.a. 200 words more than the count)
 
 ## Notes to collaborators
 
