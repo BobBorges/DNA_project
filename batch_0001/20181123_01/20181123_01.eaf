@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-06-04T01:29:59+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-06-04T18:57:14+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///home/bob/Projects/DNA_corpus/DNA_project/batch_0001/20181123_01/20181123_01.mp4" MEDIA_URL="file:///home/bob/Projects/DNA_corpus/DNA_project/batch_0001/20181123_01/20181123_01.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./20181123_01.wav"/>
         <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/bob/Projects/DNA_corpus/DNA_project/batch_0001/20181123_01/20181123_01.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./20181123_01.mp4"/>
@@ -9632,7 +9632,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7986" TIME_SLOT_REF1="ts862" TIME_SLOT_REF2="ts865">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9647,7 +9647,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7989" TIME_SLOT_REF1="ts874" TIME_SLOT_REF2="ts876">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9682,7 +9682,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7996" TIME_SLOT_REF1="ts902" TIME_SLOT_REF2="ts904">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9847,12 +9847,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8029" TIME_SLOT_REF1="ts1034" TIME_SLOT_REF2="ts1037">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8030" TIME_SLOT_REF1="ts1038" TIME_SLOT_REF2="ts1040">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -9907,22 +9907,22 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8041" TIME_SLOT_REF1="ts1082" TIME_SLOT_REF2="ts1085">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8042" TIME_SLOT_REF1="ts1086" TIME_SLOT_REF2="ts1089">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8043" TIME_SLOT_REF1="ts1090" TIME_SLOT_REF2="ts1093">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8044" TIME_SLOT_REF1="ts1094" TIME_SLOT_REF2="ts1096">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10002,7 +10002,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8060" TIME_SLOT_REF1="ts1158" TIME_SLOT_REF2="ts1161">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10017,7 +10017,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8063" TIME_SLOT_REF1="ts1170" TIME_SLOT_REF2="ts1172">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10067,7 +10067,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8073" TIME_SLOT_REF1="ts1210" TIME_SLOT_REF2="ts1212">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10122,7 +10122,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8084" TIME_SLOT_REF1="ts1254" TIME_SLOT_REF2="ts1256">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10162,7 +10162,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8092" TIME_SLOT_REF1="ts1286" TIME_SLOT_REF2="ts1288">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10202,17 +10202,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8100" TIME_SLOT_REF1="ts1318" TIME_SLOT_REF2="ts1321">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8101" TIME_SLOT_REF1="ts1322" TIME_SLOT_REF2="ts1325">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8102" TIME_SLOT_REF1="ts1326" TIME_SLOT_REF2="ts1328">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10242,7 +10242,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8108" TIME_SLOT_REF1="ts1350" TIME_SLOT_REF2="ts1352">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10352,7 +10352,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8130" TIME_SLOT_REF1="ts1438" TIME_SLOT_REF2="ts1441">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10482,17 +10482,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8156" TIME_SLOT_REF1="ts1542" TIME_SLOT_REF2="ts1544">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8157" TIME_SLOT_REF1="ts1546" TIME_SLOT_REF2="ts1549">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8158" TIME_SLOT_REF1="ts1550" TIME_SLOT_REF2="ts1552">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10597,7 +10597,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8179" TIME_SLOT_REF1="ts1634" TIME_SLOT_REF2="ts1637">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10677,12 +10677,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8195" TIME_SLOT_REF1="ts1698" TIME_SLOT_REF2="ts1701">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8196" TIME_SLOT_REF1="ts1702" TIME_SLOT_REF2="ts1704">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -10932,7 +10932,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8246" TIME_SLOT_REF1="ts1902" TIME_SLOT_REF2="ts1904">
-                <ANNOTATION_VALUE>Jennifer Simmons</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
