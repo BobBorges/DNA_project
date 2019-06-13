@@ -1,0 +1,5 @@
+This is the log file for Batch_0007.
+-------------------------------------
+Recognized all utterances in 20190101_02/20190101_02.eaf in 7560.13009691 seconds.
+Finished processing 20190101_02 in 7662.62551689 seconds.
+--- Finished batch in 7662.62599301 seconds ---
