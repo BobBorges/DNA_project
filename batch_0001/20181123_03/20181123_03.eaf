@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2019-06-04T18:55:51+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2020-01-17T18:25:46+01:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///home/bob/Projects/DNA_corpus/DNA_project/batch_0001/20181123_03/20181123_03.mp4" MEDIA_URL="file:///home/bob/Projects/DNA_corpus/DNA_project/batch_0001/20181123_03/20181123_03.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./20181123_03.wav"/>
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///home/bob/Projects/DNA_corpus/DNA_project/batch_0001/20181123_03/20181123_03.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./20181123_03.mp4"/>
+        <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///E:/DNA_folder/batch_0001/20181123_03/20181123_03.mp4" MEDIA_URL="file:///E:/DNA_folder/batch_0001/20181123_03/20181123_03.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./20181123_03.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///E:/DNA_folder/batch_0001/20181123_03/20181123_03.mp4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./20181123_03.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:999af034-1469-4a72-bf13-709b9ffc5118</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">567</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">580</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="42120"/>
@@ -454,7 +454,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a352" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts63">
-                <ANNOTATION_VALUE>dat er ook een besluit was dat we ingekomen stukken op de donderdagen zouden behandelen Dat was een parlement Dat is een parlementair besluit Ik vraag aandacht daarvoor Ik vraag ook aandacht voor het programma van de Nationale assemblee voor vandaag want na deze vergadering is er ook een openbare commissievergadering over de ontwerpen SNT</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Voorzitter ik dacht dat er ook een besluit was dat we ingekomen stukken op de donderdagen zouden behandelen Dat was een parlementair- Dat is een parlementair besluit voorzitter dus Ik vraag aandacht daarvoor Ik vraag ook aandacht voor het programma van de Nationale assemblee voor vandaag want na deze vergadering is er ook een openbare commissievergadering over de ontwerpen het SNTA</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -469,7 +469,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a355" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts75">
-                <ANNOTATION_VALUE>leventi voor. Van orde wordt het ondersteun met Bing doorgeven dan ga ik ook er vanuit ingekomen stukken terug voor 1:58 minuten we gaan bij de als je dan aantal Meren ben rond vraagt dan verwacht ik wel flexibiliteit 4 minuten krijgen nee</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>lid Bink heeft ook een punt van orde wordt het ondersteund lid Bink ja dank u wel voorzitter voorzitter als u vindt dat we de issues bij de rondvraag kunnen doorgeven dan ga ik ook er vanuit ingekomen stukken kregen we 2 minuten rondvraag kregen we 2 minuten we gaan beide issues dan aantal meer bij rondvraag dan verwacht ik wel die uw flexibiliteit dat u die 4 minuten krijgen nee we gaan die </ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -489,7 +489,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a359" TIME_SLOT_REF1="ts88" TIME_SLOT_REF2="ts91">
-                <ANNOTATION_VALUE>gaan we samen behandelen zijn twee naturalisatiewet er in het belang van de burgers en dat hebben we net afgesproken verkering we maken jullie grote uitzondering op dit moment Er zijn twee minister maar er is een belang van individuele Burgers hier waarbij je wel goedkeuren dat ze gaan actualiseert worden en gezien het werkschema Als we het niet doen zal het misschien pas naar januari verhuizen dus vandaar dat we die uitzondering maken Het is een hoge instap geen presidenten</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>gaan we samen behandelen het zijn twee naturalisatiewetten in het belang van de burgers en dat hebben we net afgesproken regering we maken aan jullie grote uitzondering op dit moment Er zijn twee ministers maar er is een belang van individuele burgers hier waarbij we goedkeuren dat zij genaturaliseerd worden en gezien het werkschema als we het niet doen zal het misschien pas naar januari verhuizen dus vandaar dat we die uitzondering maken Het is een hoge uitzondering schep geen precedenten</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -509,12 +509,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a471" TIME_SLOT_REF1="ts103" TIME_SLOT_REF2="ts107">
-                <ANNOTATION_VALUE>Oh we hebben de gewoonte om te presenteren aan de samenleving Hoeveel mensen worden genaturaliseerd en wat er allemaal bij zitten zodat iedereen dat weet en ik denk dat het goed is om te doen en voor de rest vraag ik de Lidl om toch wel rekening te houden bij hun bijdragen dat we inderdaad een korte vergadering hebben zodat we naar de rondvraag kunnen gaan</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>we hebben de gewoonte om te presenteren aan de samenleving hoeveel mensen er worden genaturaliseerd en wat er allemaal bij zit zodat iedereen dat weet en ik denk dat dat goed is om te doen en voor de rest vraag ik de leden om toch wel rekening te houden bij hun bijdragen dat we inderdaad een korte vergadering hebben zodat we naar de rondvraag kunnen gaan</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a472" TIME_SLOT_REF1="ts108" TIME_SLOT_REF2="ts111">
-                <ANNOTATION_VALUE>en dat ook binnen een uur kunnen afhandelen als er geen technische is woestijn bij de naturalisatie dat u dan daarmee rekening houdt lid watamaleo voorzitter van de kom</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>en dat ook binnen het uur kunnen afhandelen als er geen technische issues zijn bij de naturalisatie dat u dan daarmee rekening houdt lid Watamaleo voorzitter van de commissie</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -559,7 +559,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a374" TIME_SLOT_REF1="ts145" TIME_SLOT_REF2="ts147">
-                <ANNOTATION_VALUE>vraag aan het ministerie van Justitie en politie voorzitter via u Hydra de evaluatie plaatsgevonden en is er nog achterstand bij aanvragen tot naturalisatie</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>vraag aan het ministerie van justitie en politie voorzitter via u heeft er al evaluatie plaatsgevonden en is er nog een achterstand bij aanvragen tot naturalisatie</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -569,7 +569,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a382" TIME_SLOT_REF1="ts153" TIME_SLOT_REF2="ts155">
-                <ANNOTATION_VALUE>Ik kom terug op de inburgering als dat op verzoek om zoals ik de vorige keer bij de naturalisatie behang had aangegeven was er toen had ik aangehaald artikel 8 lid 9 waarbij aangegeven even opgenomen is dat nadere regels bestaat besluit vastgesteld worden met betrekking tot inburgering als voorwaarde bij naturalisatie</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Ik kom terug op de inburgering als dat op verzoek om zoals ik de vorige keer bij de naturalisatie behandeling had aangegeven was er toen is er had ik aangehaald artikel 8 lid 9 waarbij aangegeven is opgenomen is dat nadere regels bij staatbesluit vastgesteld worden met betrekking tot inburgering als voorwaarde bij naturalisatie</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -584,7 +584,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a387" TIME_SLOT_REF1="ts164" TIME_SLOT_REF2="ts167">
-                <ANNOTATION_VALUE>dag is er nog heel veel werk te doen Op dit gebied</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>toch is er nog heel veel werk te doen op dit gebied</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -609,7 +609,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a401" TIME_SLOT_REF1="ts185" TIME_SLOT_REF2="ts187">
-                <ANNOTATION_VALUE>een weddie is er online online online zijn aangevraagd</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>een wet die is online online een wet die middels door verzoeken online zijn aangevraagd</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -664,7 +664,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a474" TIME_SLOT_REF1="ts228" TIME_SLOT_REF2="ts232">
-                <ANNOTATION_VALUE>Oh vaak genoeg garantstelling garantsteller hebben of van Yvonne leeftijd op pensioen genieten dus vandaar dus dat er geen beroep maar ik moet sowieso zijn dezelfde persoon in eigen onderhoud kan voorzien want anders dan zou je dus dan niet kunnen beroepen op</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE> vaak genoeg een garantstelling garantsteller hebben of vanwege hun leeftijd op pensioen genieten dus vandaar dus dat er staat geen beroep maar het moet sowieso zijn dus uit de persoon in eigen onderhoud kan voorzien want anders dan zou je dus dan niet kunnen beroepen op</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1393,7 +1393,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a494" TIME_SLOT_REF1="ts74" TIME_SLOT_REF2="ts77">
-                <ANNOTATION_VALUE>Ingrid A. Bink</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Jennifer Simons - Ingrid A. Bink - Jennifer Simons</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -1762,8 +1762,79 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
+    <TIER LINGUISTIC_TYPE_REF="corrections" PARENT_REF="Fine_Segmentation" TIER_ID="corrected_by">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a568" ANNOTATION_REF="a352">
+                <ANNOTATION_VALUE>Fleur</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a569" ANNOTATION_REF="a355">
+                <ANNOTATION_VALUE>Fleur</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a570" ANNOTATION_REF="a359">
+                <ANNOTATION_VALUE>Fleur </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a571" ANNOTATION_REF="a471">
+                <ANNOTATION_VALUE>Fleur </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a572" ANNOTATION_REF="a472">
+                <ANNOTATION_VALUE>Fleur </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a573" ANNOTATION_REF="a374">
+                <ANNOTATION_VALUE>Fleur</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a575" ANNOTATION_REF="a382">
+                <ANNOTATION_VALUE>Fleur </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a576" ANNOTATION_REF="a387">
+                <ANNOTATION_VALUE>Fleur</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a579" ANNOTATION_REF="a474">
+                <ANNOTATION_VALUE>Fleur </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER LINGUISTIC_TYPE_REF="notes" PARENT_REF="Fine_Segmentation" TIER_ID="notes">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a574" ANNOTATION_REF="a374">
+                <ANNOTATION_VALUE>not sure about "heeft er al"</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a577" ANNOTATION_REF="a387">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a578" ANNOTATION_REF="a401">
+                <ANNOTATION_VALUE>Fleur </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a580" ANNOTATION_REF="a474">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="dep" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="corrections" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="notes" TIME_ALIGNABLE="false"/>
     <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
     <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
     <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
