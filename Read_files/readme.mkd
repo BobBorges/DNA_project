@@ -1,0 +1,73 @@
+# DNA Project
+
+This is a repo for the DNA project. Here I'm using SR to automate spoken-language corpus building. This repo contains .eaf files for collaborators who already have the media files.
+
+## Totals
+
+So far, there are ca.:
+
+* 36h47m (2207 minutes) of data transcribed
+* 21560 annotations
+* 204186 words / 14275 unique (nb: numbers with unit counted as one word...should be c.a. 200 words more than the count)
+
+## Notes to collaborators
+
+1. Make sure your media collection is up to date **before** you pull from github. If media collection is not up to date, you will have to manually move media files into the directory structure created by the pull. Not a fatal error, but potential pia.
+
+## Up-to-date batch list
+
+This is a list of the batches of media files and the date they have been added to the media cache.
+#  
+
+batch | date added
+--- | ---
+batch_0001: | starter
+batch_0002: | starter
+batch_0003: | 20190414
+batch_0004: | 20190414
+batch_0005: | 20190414
+batch_0006: | 20190418
+batch_0007: | 20190418
+batch_0008: | 20190418
+batch_0009: | 20190418
+
+## File summary
+
+Here is a list of files processed to date. If a batch is added to the media cache but doesn't appear here yet, one can still safely pull from the git repo w/out having downloaded the media files.
+#  
+
+file	    | batch | duration_in_min |	date_SRed 
+---         | ---   | :---: | ---
+20181113	| 0001	| 2	    | 20190413
+20181123_01	| 0001	| 85    | 20190413
+20181123_02	| 0001	| 111	| 20190413
+20181123_03	| 0001	| 18	| 20190413
+20181101	| 0002	| 19	| 20190414
+20181121_01	| 0002	| 21	| 20190414
+20181121_02	| 0002	| 87	| 20190414
+20190411_01	| 0003	| 60	| 20190414
+20190411_02	| 0003	| 90	| 20190414
+20190411_03	| 0003	| 24	| 20190414
+20190411_04	| 0003	| 48	| 20190414
+20190405_04	| 0004	| 101	| 20190415
+20190405_05	| 0004	| 100	| 20190415
+20190409_01	| 0004	| 102	| 20190415
+20190409_02	| 0004	| 30	| 20190415
+20190505_01 | 0005 | 48    | 20190415
+20190405_02 | 0005 | 57    | 20190415
+20190405_03 | 0005 | 43    | 20190415
+20190405_06 | 0006 | 73    | 20190529
+20190405_07 | 0006 | 33    | 20190529
+20190405_08 | 0006 | 1     | 20190529
+20190101_01 | 0007 | 0     | removed / no speech
+20190101_02 | 0007 | 359   | 20190530
+20190402    | 0008 | 384   | 20190530
+20190404_01 | 0008 | 0     | removed / no audio
+20190404_02 | 0009 | 311   | 20190530
+
+## Post SR progress
+
+to do:
+
+* diarize speakers
+* add utterances to py dict
