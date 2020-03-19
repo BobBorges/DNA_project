@@ -1,10 +1,13 @@
 Conventions used from batch_0003/20190411_02:
 1. [--]
 Used when speaker falters, breaks off a word/sentence or hesitates.
-2. Interjections um or uh are transcribed, spelled as “um” and “uh”, 
-3. Codeswitches are transcribed as [codeswitch (language)] or sometimes [switch language]. For the sake of consistency I’ll try to use exact same from now (batch_0007) on and use [switch language]. The transcription of the codeswitch is in the Switch tier.
-4. If I’m not sure what has been said I try to make a transcription and put in the notes what the words where that I was not sure about. If I really can’t understand which word(s) has/have been said, I put “…” in the transcription and put in the notes which part of the sentence I did not understand. 
-5. I make a distinction between: er, daar and d’r. 
-I try to be as consistent as I can be, but sometimes er en d’r are hard to distinguish. Only the occurens of which I’m really sure that they are d’r I will transcribe them as d’r. When it’s not very notable, I use er instead.
+2. Interjections like um or uh are transcribed. They are spelled as “um” and “uh”. 
+3. Codeswitches are transcribed as [codeswitch “name of language”] or sometimes [switch “name of language”]. 
+For the sake of consistency I’ll try to use the exact same form from now (batch_0007) on and use [switch “name of language”]. The transcription of the codeswitch is in the Switch tier.
+4. If I’m not sure what has been said I try to make a transcription and put in the notes what the words where that I was not sure about. 
+5. If I really can’t understand which word(s) has/have been said, I put “…” in the transcription and put in the notes which part of the sentence I did not understand. 
+6. I make a distinction between: “er”, “daar” and “d’r”. 
+I try to be as consistent as I can be, but sometimes “er” and “d’r” are hard to distinguish. I will only transcribe the occurrences of which I’m really sure that they are pronounced as “d’r” as “d’r”. When it’s not very notable, I use “er” instead.
 6. If there are two speakers, I put both their names in the Speaker_diarizartation tier.
-
+7. [] 
+Used when sound is switched off
